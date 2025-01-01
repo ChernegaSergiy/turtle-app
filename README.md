@@ -21,8 +21,8 @@
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/ChernegaSergiy/TurtleApp.git
-   cd TurtleApp
+   git clone https://github.com/ChernegaSergiy/turtle-app.git
+   cd turtle-app
    ```
 
 2. Install dependencies using Composer:
