@@ -1,4 +1,4 @@
-# TurtleApp - Telegram Survey Bot
+# TurtleApp
 
 **TurtleApp** is a simple Telegram bot designed to conduct surveys by asking users a series of predefined questions. The bot collects responses and stores them for further analysis.
 
