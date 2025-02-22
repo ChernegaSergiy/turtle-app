@@ -19,20 +19,17 @@
 ### Installation
 
 1. Clone the repository:
-
    ```bash
    git clone https://github.com/ChernegaSergiy/turtle-app.git
    cd turtle-app
    ```
 
 2. Install dependencies using Composer:
-
    ```bash
    composer install
    ```
 
 3. Set your bot token in the main script. Open the `index.php` file and replace `YOUR_BOT_TOKEN` with your actual bot token:
-
    ```php
    $token = 'YOUR_BOT_TOKEN';
    ```
